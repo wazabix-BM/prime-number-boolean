@@ -1,0 +1,20 @@
+{
+  "name": "prime-number-boolean",
+  "version": "1.2.3",
+  "description": "This package will be used to know if a number is prime or no",
+  "main": "corp.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "echo error for loaded the corp.js file"
+  },
+  "author": "wazabix",
+  "license": "MIT",
+  "keywords": [
+    "prime",
+    "number",
+    "boolean",
+    "mathematics"
+  ]
+}
